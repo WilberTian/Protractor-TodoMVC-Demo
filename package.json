@@ -1,0 +1,14 @@
+{
+  "name": "protractor-todomvc",
+  "version": "1.0.0",
+  "description": "simple demo about using protractor to test angularjs project",
+  "main": "conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WilberTian",
+  "license": "MIT",
+  "dependencies": {
+    "protractor-perf": "^0.2.1"
+  }
+}
